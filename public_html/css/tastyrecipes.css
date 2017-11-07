@@ -18,7 +18,7 @@ div.document{
 nav{
     border: 1px solid black;
 }
-main{
+.main{
     padding: 1em 2em;
 
 }
